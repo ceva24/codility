@@ -34,6 +34,9 @@ Index
     <td>max-product-of-three</td><td>http://codility.com/demo/take-sample-test/maxproductofthree</td><td>Easy</td><td>44, 100</td>
   </tr>
   <tr>
+    <td>max-profit</td><td>https://codility.com/demo/take-sample-test/maxprofit</td><td>Easy</td><td>100</td>
+  </tr>
+  <tr>
     <td>passing-cars</td><td>http://codility.com/demo/take-sample-test/passingcars</td><td>Easy</td><td>100</td>
   </tr>
   <tr>
