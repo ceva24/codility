@@ -1,4 +1,4 @@
-codility
+Codility
 ========
 Solutions for some of the Codility challenges.
 
