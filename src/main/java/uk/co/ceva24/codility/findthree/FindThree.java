@@ -1,4 +1,6 @@
-class Solution
+package uk.co.ceva24.codility.findthree;
+
+class FindThree
 {
     public int solution(String S)
     {

@@ -1,6 +1,6 @@
-import java.util.ArrayList;
+package uk.co.ceva24.codility.maxprofit;
 
-class Solution
+class MaxProfit
 {
     public int solution(int[] A)
     {

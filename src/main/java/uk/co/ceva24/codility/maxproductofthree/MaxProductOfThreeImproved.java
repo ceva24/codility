@@ -1,7 +1,9 @@
+package uk.co.ceva24.codility.maxproductofthree;
+
 import java.util.ArrayList;
 import java.util.Collections;
 
-class Solution
+class MaxProductOfThreeImproved
 {
     public int solution(int[] A)
     {
@@ -14,6 +16,9 @@ class Solution
         }
         Collections.sort(values);
         
-        return (values.get(values.size() - 1) * values.get(values.size() - 2) * values.get(values.size() - 3));
+        int posVal = (values.get(values.size() - 1) * values.get(values.size() - 2) * values.get(values.size() - 3));
+        int negVal = values.get(0) * values.get(1) * values.get(values.size() - 1);
+        
+        return (posVal > negVal ? posVal : negVal);
     }
 }

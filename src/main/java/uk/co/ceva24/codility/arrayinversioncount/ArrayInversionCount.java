@@ -1,4 +1,6 @@
-class Solution
+package uk.co.ceva24.codility.arrayinversioncount;
+
+class ArrayInversionCount
 {
     public int solution(int[] A)
     {

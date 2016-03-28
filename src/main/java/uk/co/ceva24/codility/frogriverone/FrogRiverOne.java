@@ -1,6 +1,8 @@
+package uk.co.ceva24.codility.frogriverone;
+
 import java.util.HashSet;
 
-class Solution
+class FrogRiverOne
 {
     public int solution(int X, int[] A)
     {

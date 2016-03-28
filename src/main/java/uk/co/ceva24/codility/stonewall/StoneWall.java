@@ -1,6 +1,8 @@
+package uk.co.ceva24.codility.stonewall;
+
 import java.util.ArrayList;
 
-class Solution
+class StoneWall
 {
     public int solution(int[] H)
     {

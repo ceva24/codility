@@ -1,7 +1,9 @@
+package uk.co.ceva24.codility.dominator;
+
 import java.util.HashMap;
 import java.util.HashSet;
 
-class Solution
+class Dominator
 {
     public int solution(int[] A)
     {
@@ -28,11 +30,6 @@ class Solution
                 highestCounter = counters.get(i);
                 dominatingNumber = i;
             }
-        }
-        
-        if (highestCounter <= Math.floor(A.length / 2))
-        {
-            return -1;
         }
         
         HashSet<Integer> noDups = new HashSet<Integer>();

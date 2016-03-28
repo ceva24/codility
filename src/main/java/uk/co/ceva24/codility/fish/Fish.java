@@ -1,7 +1,8 @@
-import java.util.ArrayList;
-import java.util.Arrays;
+package uk.co.ceva24.codility.fish;
 
-class Solution
+import java.util.ArrayList;
+
+class Fish
 {
     public int solution(int[] A, int[] B)
     {

@@ -1,4 +1,6 @@
-class Solution
+package uk.co.ceva24.codility.fallingdiscs;
+
+class FallingDiscs
 {
     public int solution(int[] A, int[] B)
     {

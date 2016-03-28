@@ -1,4 +1,6 @@
-class Solution
+package uk.co.ceva24.codility.brackets;
+
+class Brackets
 {
     public int solution(String S)
     {

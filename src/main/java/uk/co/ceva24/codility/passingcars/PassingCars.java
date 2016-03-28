@@ -1,4 +1,6 @@
-class Solution
+package uk.co.ceva24.codility.passingcars;
+
+class PassingCars
 {
     public int solution(int[] A)
     {

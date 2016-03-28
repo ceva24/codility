@@ -1,6 +1,8 @@
+package uk.co.ceva24.codility.prefixset;
+
 import java.util.HashSet;
 
-class Solution
+class PrefixSet
 {
     public int solution(int[] A)
     {
