@@ -14,7 +14,7 @@ Index
 
 <table>
   <tr>
-    <th>Challenge</th><th>URL</th><th>Difficulty</th><th> My Score(s)</th>
+    <th>Challenge</th><th>URL</th><th>Difficulty</th><th>Score</th>
   </tr>
   <tr>
     <td>brackets</td><td>https://codility.com/demo/take-sample-test/brackets</td><td>Easy</td><td>75</td>
